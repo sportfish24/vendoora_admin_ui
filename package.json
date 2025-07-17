@@ -1,0 +1,1 @@
+{ "name": "vendoora-admin-ui", "scripts": { "build": "vite build" } }

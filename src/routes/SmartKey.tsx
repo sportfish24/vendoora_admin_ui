@@ -1,0 +1,1 @@
+export default function SmartKey() { return <div>Smart Key</div>; }
